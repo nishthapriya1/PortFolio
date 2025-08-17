@@ -35,7 +35,7 @@ The design emphasizes accessibility and adaptability, ensuring seamless function
           title="PortFolio Website"
           main="Built my portfolio using React for a component-driven structure and seamless page navigation, combined with Tailwind CSS for fast, utility-first styling and responsive design. This stack enables clean, maintainable code and visually consistent layouts across devices"
           sourceCode="https://github.com/nishthapriya1/PortFolio_Website"
-
+           Demo="https://port-folio-fxw3lxk7l-nishthas-projects-b569272e.vercel.app/"
           />
 
         </div>
@@ -45,7 +45,7 @@ The design emphasizes accessibility and adaptability, ensuring seamless function
           main="I developed a binary classifier using Python and scikit-learn to distinguish between underwater mines and rocks from the UCI Sonar dataset. The dataset includes 60 sonar frequency features across 208 samples, labeled as R (rock) or M (mine) 
 . I implemented a logistic regression model following a standard pipeline—data loading, feature scaling, train/test splitting, and evaluation using accuracy and classification report—achieving around 91% accuracy"
           sourceCode="https://github.com/nishthapriya1/Rock-vs-Mine-"
-       
+         
           />
      
           </div>
